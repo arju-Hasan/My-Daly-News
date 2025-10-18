@@ -1,10 +1,9 @@
-import React from 'react';
-import Header from '../Component/Header';
+import HomeLayout from './HomeLayout';
 
 const Root = () => {
     return (
         <div>
-            <Header></Header>
+            <HomeLayout />
         </div>
     );
 };
